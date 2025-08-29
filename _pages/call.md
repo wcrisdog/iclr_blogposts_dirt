@@ -8,11 +8,11 @@ nav_order: 2
 ---
 
 # Key Dates
-- **Abstract & Submission deadline**: ~~Nov 15th~~ **Extended to** Nov 22nd 23:59 AOE, 2024 
-  - [Submit to OpenReview](https://openreview.net/group?id=ICLR.cc/2025/BlogPosts)
+- **Abstract & Submission deadline**: December 1st, 2025 23:59 AOE, 2024 
+  - [Submit to OpenReview](https://openreview.net/group?id=ICLR.cc/2026/BlogPosts)
   - Any modifications to your blog post, via a pull request on github
-- **Notification of acceptance**: ~January 22nd, 2025
-- **Camera-ready merge**: March 15th, 2025
+- **Notification of acceptance**: February 21st, 2026
+- **Camera-ready merge**: March 15th, 2026
 
 
 # Call for blog posts
