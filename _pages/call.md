@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 # Key Dates
-- **Abstract & Submission deadline**: December 1st, 2025 23:59 AOE, 2024 
+- **Abstract & Submission deadline**: December 1st, 2025 23:59 AOE
   - [Submit to OpenReview](https://openreview.net/group?id=ICLR.cc/2026/BlogPosts)
   - Any modifications to your blog post, via a pull request on github
 - **Notification of acceptance**: February 21st, 2026
@@ -27,7 +27,7 @@ We invite all researchers and practitioners to submit a blog post discussing:
 
 If you are unsure about the content of your post you can reach us at [iclr-blogpost-track@googlegroups.com](mailto:iclr-blogpost-track@googlegroups.com).
 ​
-Past blog posts can be accessed here: [2022](https://iclr-blog-track.github.io/home/#accepted-posts), [2023](https://iclr-blogposts.github.io/2023/about#accepted-posts), [2024](https://iclr-blogposts.github.io/2024/about#spotlight).
+Past blog posts can be accessed here: [2022](https://iclr-blog-track.github.io/home/#accepted-posts), [2023](https://iclr-blogposts.github.io/2023/about#accepted-posts), [2024](https://iclr-blogposts.github.io/2024/about#spotlight), [2025](https://iclr-blogposts.github.io/2025/blog/index.html).
 ​
 ### Conflict of interest
 ​
@@ -36,7 +36,6 @@ Conflicts of interest include:
 
 - Recent collaborators (less than 3 years)
 - Current institution 
-​
 **Blog Posts must not be used to highlight or advertise past publications of the authors or of their lab**. 
 
 ### Publication

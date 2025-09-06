@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+## Please note: we are currently updating the repo and workflows. Full submission guide coming soon! 
+
+If you want to start building your site now, we will mostly be following last iterations' process as described below, but please be aware that **we will not yet be accepting any pull requests**, and you may need to update your fork before submitting any pull requests with your submission.
+
+-----
+
 ### A more open process
 
 As with the previous edition of the Blog Post track, we forgo the requirement for total anonymity.
@@ -358,6 +364,4 @@ We ask that they act in good faith, and refrain from digging into the repository
 
 ### Camera-ready
 
-**TBD** - instructions will be provided closer to the submission deadline.
-
-### Full guide coming soon!
+Instructions for the camera-ready will be provided closer to the submission deadline.
