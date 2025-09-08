@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Please note: we are currently updating the repo and workflows. Full submission guide coming soon! 
 
-If you want to start building your site now, we will mostly be following last iterations' process as described below, but please be aware that **we will not yet be accepting any pull requests**, and you may need to update your fork before submitting any pull requests with your submission.
+If you want to start building your site now, we will mostly be following the process from the last iteration as described below, but please be aware that **we are not yet accepting pull requests**, and you may need to update your fork before submitting any pull requests with your submission.
 
 -----
 
