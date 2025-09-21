@@ -167,7 +167,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts", "index.md"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -203,6 +203,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-redirect-from
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
